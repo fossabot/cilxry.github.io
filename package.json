@@ -12,7 +12,7 @@
     "exi": "node ./scripts/importExistFile.ts",
     "exi-batch": "node ./scripts/importBatchFiles.ts",
     "update-frontmatter": "node ./scripts/updateFrontmatter.ts",
-    "rel": "standard-version",
+    "rel": "standard-version --prerelease beta",
     "release:minor": "standard-version --release-as minor",
     "release:major": "standard-version --release-as major",
     "release:init": "standard-version --first-release"
