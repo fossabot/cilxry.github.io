@@ -1,5 +1,8 @@
 # CILXRY's Website Intro
 
+::info::
+存档，请移步 `elegant` 分支。
+
 ## 容我放在这里
 
 Hi there.
