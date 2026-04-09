@@ -1,4 +1,6 @@
 # CILXRY's Website Intro
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCILXRY%2Fcilxry.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCILXRY%2Fcilxry.github.io?ref=badge_shield)
+
 
 ## 容我放在这里
 
@@ -99,3 +101,6 @@ cilxry/cilxry.github.io 项目内容采用 GPLv3 开源。
 本项目所用到的开源项目和其开源协议在以上 鸣谢 部分有所标注，
 
 以上。
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCILXRY%2Fcilxry.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCILXRY%2Fcilxry.github.io?ref=badge_large)
